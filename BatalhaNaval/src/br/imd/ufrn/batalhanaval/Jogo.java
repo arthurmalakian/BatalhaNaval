@@ -1,4 +1,4 @@
-package br.imd.ufrn.batalhanaval;
+package br.ufrn.imd.batalhanaval.gameObjects;
 
 public class Jogo {
 }
